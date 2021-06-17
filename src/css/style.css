@@ -1,0 +1,29 @@
+.column-3
+{
+    width:75%;
+    float: left;
+}
+.column-2
+{
+    width:50%;
+    float: left;
+}
+.column-1
+{
+    width:25%;
+    float: left;
+}
+button.calc-button{
+    width: 100%;
+    padding: 20px;
+    border: 2px solid gray;
+
+}
+.result{
+    width:auto;
+    padding:10px;
+    font-size: 32px;
+    text-align: right;
+    margin: 0%;
+    border: none;
+}
